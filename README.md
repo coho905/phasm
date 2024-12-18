@@ -83,3 +83,8 @@ export LD_LIBRARY_PATH=$DEPS/libtorch/lib:$LD_LIBRARY_PATH
 ```
 
 Now you can proceed with the generic directions for building and running phasm.
+
+## My contributions
++ Building physics informed neural nets
++ Beginner surrogate modeling
++ scripts for easier installation
